@@ -1,4 +1,4 @@
-# Curso de Fundamentos de Python y Análisis de Datos
+# Curso de Análisis de Datos con Python
 
 ![Alt text](imgs/data-science.jpg/ "curso analisis datos python")
 
