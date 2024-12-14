@@ -41,19 +41,12 @@ Scikit-learn es una biblioteca de aprendizaje automático en Python que proporci
 - Tratamiento de valores atípicos y datos faltantes.
 - Ejercicio práctico: Análisis exploratorio avanzado de un conjunto de datos.
 
-### Día 5: Visualización de Datos con Matplotlib y Seaborn
+### Día 5: Visualización de Datos con Seaborn 
 - Introducción a la visualización de datos con Matplotlib y Seaborn.
 - Gráficos básicos y personalización de gráficos.
 - Ejercicio práctico: Visualización de datos utilizando Matplotlib y Seaborn.
 
-### Día 6: Introducción al Machine Learning
-- Objetivos:
-  - Comprender los conceptos básicos del Machine Learning.
-  - Aprender sobre el preprocesamiento de datos para aplicaciones de Machine Learning.
-  - Familiarizarse con modelos de clasificación y regresión básicos utilizando la biblioteca Scikit-learn.
-  - Realizar un ejercicio práctico para implementar un modelo de clasificación simple.
-
-### Día 7: Proyecto Final y Revisión General
+### Día 6: Proyecto Final y Revisión General
 - Definición del proyecto final: selección de un conjunto de datos y objetivo del proyecto.
 - Extracción y preparación de datos para el proyecto.
 - Análisis exploratorio y visualización de datos.
