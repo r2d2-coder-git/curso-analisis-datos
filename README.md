@@ -15,8 +15,6 @@ Pandas es una biblioteca de código abierto de Python que proporciona estructura
 ### Matplotlib y Seaborn
 Matplotlib y Seaborn son bibliotecas de visualización de datos en Python que se utilizan para crear gráficos estáticos, interactivos y de alta calidad. Aprenderás a utilizar estas bibliotecas para visualizar tus datos de manera efectiva y comunicar tus hallazgos.
 
-### Scikit-learn
-Scikit-learn es una biblioteca de aprendizaje automático en Python que proporciona una variedad de algoritmos de aprendizaje supervisado y no supervisado. En este curso, utilizaremos Scikit-learn para introducirnos en los conceptos básicos de Machine Learning y aplicar modelos de clasificación y regresión.
 
 ## Índice del Curso
 
