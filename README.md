@@ -74,4 +74,4 @@ El análisis de datos es crucial en diversos campos, incluyendo la ciencia de da
 
 - Tener instalado python 3.9.
 - Tener instalado visual studio code o similar.
-- Extensión de visual studio code: Jupyter, Jupypet Notebook Renderers.
+- Extensión de visual studio code: Jupyter, Jupyter Notebook Renderers.
