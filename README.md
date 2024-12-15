@@ -1,4 +1,4 @@
-# Curso de Análisis de Datos con Pandas
+# Curso de Análisis de Datos con Pandas 
 
 ![Alt text](imgs/foto-dia-02.png/ "curso analisis datos python")
 
