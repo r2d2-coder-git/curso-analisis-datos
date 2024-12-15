@@ -1,6 +1,6 @@
 # Curso de Análisis de Datos con Python
 
-![Alt text](imgs/foto-dia-02.jpg/ "curso analisis datos python")
+![Alt text](imgs/foto-dia-02.png/ "curso analisis datos python")
 
 ¡Bienvenido al repositorio del curso de Fundamentos de Análisis de Datos con Python! Este repositorio contiene el código relacionado con cada día del curso, junto con los ejercicios prácticos para reforzar tu aprendizaje. El análisis de datos es una habilidad fundamental en la era de la información, y este curso te proporcionará los fundamentos de Python y las técnicas básicas para explorar y analizar conjuntos de datos de manera efectiva.
 
