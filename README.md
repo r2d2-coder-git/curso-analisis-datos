@@ -60,8 +60,7 @@ Matplotlib y Seaborn son bibliotecas de visualización de datos en Python que se
 - Gráficos de relación entre variables (Mapas de calor y gráficos de dispersión)
 - Gráficos de distribución (Histogramas)
 
-### Día 7: Proyecto Final y Revisión General
-- Proyecto Final: Análisis de artistas en spotify y youtube.
+### Día 7: - Proyecto Final: Análisis de artistas en spotify y youtube.
 - Extracción y preparación de datos para el proyecto.
 - Análisis exploratorio y visualización de datos.
 - Conclusiones finales
