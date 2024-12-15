@@ -2,7 +2,7 @@
 
 ![Alt text](imgs/data-science.jpg/ "curso analisis datos python")
 
-¡Bienvenido al repositorio del curso de Fundamentos de Python y Análisis de Datos! Este repositorio contiene el código relacionado con cada día del curso, junto con los ejercicios prácticos para reforzar tu aprendizaje. El análisis de datos es una habilidad fundamental en la era de la información, y este curso te proporcionará los fundamentos de Python y las técnicas básicas para explorar y analizar conjuntos de datos de manera efectiva.
+¡Bienvenido al repositorio del curso de Fundamentos de Análisis de Datos con Python! Este repositorio contiene el código relacionado con cada día del curso, junto con los ejercicios prácticos para reforzar tu aprendizaje. El análisis de datos es una habilidad fundamental en la era de la información, y este curso te proporcionará los fundamentos de Python y las técnicas básicas para explorar y analizar conjuntos de datos de manera efectiva.
 
 ## Tecnologías Utilizadas
 
@@ -18,39 +18,60 @@ Matplotlib y Seaborn son bibliotecas de visualización de datos en Python que se
 
 ## Índice del Curso
 
-### Día 1: Fundamentos de Python y Conceptos Básicos de Análisis de Datos
-- Introducción a Python: variables, tipos de datos, operadores básicos.
-- Introducción a Pandas: estructuras de datos, manipulación básica de datos. Dataframes.
-- Ejercicio práctico: Manipulación básica de datos con Pandas.
+### Día 1: Fundamentos de Python
+- Tipos de datos básicos y operadores
+- Estructuras de datos
+- Condicionales
+- Bucles
+- Funciones
+- Programación orientada a objetos
 
-### Día 2: Introducción Manipulación de Datos con Pandas
-- Carga de ficheros en Pandas.
-- Indexación y selección avanzada de datos.
-- Operaciones avanzadas de limpieza y transformación de datos.
-- Ejercicio práctico: Manipulación avanzada de datos con Pandas.
+### Día 2: Conceptos Básicos de Análisis de Datos
+- Instalación de Pandas
+- Creación de un dataframe
+- Creación de Series
+- Lectura de datasets y exploración de dataframe.
+- Escritura de dataframe en CSV.
 
-### Día 3: Análisis Exploratorio de Datos (EDA) - Parte 1
-- Estadísticas descriptivas básicas: media, mediana, desviación estándar.
-- Exploración inicial de un conjunto de datos.
-- Ejercicio práctico: Análisis exploratorio inicial de un conjunto de datos.
+### Día 3: Introducción Manipulación de Datos con Pandas
+- Acceso nativo a dataframes
+- Indexado de dataframes en Pandas
+- Manipulación de índices
+- Selección condicional de datos
+- Asignación de datos
 
-### Día 4: Análisis Exploratorio de Datos (EDA) - Parte 2
-- Exploración de relaciones entre variables.
-- Tratamiento de valores atípicos y datos faltantes.
-- Ejercicio práctico: Análisis exploratorio avanzado de un conjunto de datos.
+### Día 4: Análisis Exploratorio de Datos (EDA) - Parte 1
+- Funciones de resumen estadístico
+- Uso de función map
+- Uso de función groupby
+- Uso de multi-índices
+- Uso de la función sort
 
-### Día 5: Visualización de Datos con Seaborn 
-- Introducción a la visualización de datos con Matplotlib y Seaborn.
-- Gráficos básicos y personalización de gráficos.
-- Ejercicio práctico: Visualización de datos utilizando Matplotlib y Seaborn.
+### Día 5: Análisis Exploratorio de Datos (EDA) - Parte 2
+- Tipos de datos en Pandas
+- Manejando valores vacíos
+- Renombramiento de columnas e índices
+- Combinando dataframes (JOINs)
+- Manejo de fechas
 
-### Día 6: Proyecto Final y Revisión General
-- Definición del proyecto final: selección de un conjunto de datos y objetivo del proyecto.
+### Día 6: Visualización de Datos con Seaborn 
+- Instalación de seaborn
+- Gráficos de tendencia
+- Gráficos de relación entre variables (Mapas de calor y gráficos de dispersión)
+- Gráficos de distribución (Histogramas)
+
+### Día 7: Proyecto Final y Revisión General
+- Proyecto Final: Análisis de artistas en spotify y youtube.
 - Extracción y preparación de datos para el proyecto.
 - Análisis exploratorio y visualización de datos.
-- Modelado y evaluación del proyecto.
-- Presentación de resultados y revisión general del curso.
+- Conclusiones finales
 
 El análisis de datos es crucial en diversos campos, incluyendo la ciencia de datos, negocios, investigación, entre otros. ¡Este curso te proporcionará las herramientas necesarias para comenzar tu viaje en el mundo del análisis de datos con Python!
 
 ¡Esperamos que este repositorio te sea útil para seguir el curso y mejorar tus habilidades en Python y análisis de datos! Si tienes alguna pregunta o sugerencia, no dudes en crear un issue o contactar al equipo de instructores. ¡Disfruta del aprendizaje!
+
+## Requisitos y recomendaciones
+
+- Tener instalado python 3.9.
+- Tener instalado visual studio code o similar.
+- Extensión de visual studio code Jupyter, Jupypet Notebook Renderers.
