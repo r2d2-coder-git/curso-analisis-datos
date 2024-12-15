@@ -66,9 +66,8 @@ Matplotlib y Seaborn son bibliotecas de visualización de datos en Python que se
 - Análisis exploratorio y visualización de datos.
 - Conclusiones finales
 
-El análisis de datos es crucial en diversos campos, incluyendo la ciencia de datos, negocios, investigación, entre otros. ¡Este curso te proporcionará las herramientas necesarias para comenzar tu viaje en el mundo del análisis de datos con Python!
 
-¡Esperamos que este repositorio te sea útil para seguir el curso y mejorar tus habilidades en Python y análisis de datos! Si tienes alguna pregunta o sugerencia, no dudes en crear un issue o contactar al equipo de instructores. ¡Disfruta del aprendizaje!
+¡Espero que este repositorio te sea útil para seguir el curso y mejorar tus habilidades en Python y análisis de datos! Si tienes alguna pregunta o sugerencia, no dudes en crear un issue o contactar conmigo en mis redes sociales **r2d2_coder**. ¡Disfruta del aprendizaje!
 
 ## Requisitos y recomendaciones
 
